@@ -7,6 +7,7 @@
 <details><summary>What is CodeTrybe?</summary>
 CodeTrybe is a community of Dedicated Software Engineers under the Auspices of ALX
 </details>
+
 #### What is a Rescue Team to you?
 <details><summary>What is a Rescue Team?</summary>A  Rescue Team consist of People who are willing to help organize and take PLDs irrespective of their Cohorts. They all work hand in hand to make peer learning effective
 </details>
