@@ -30,7 +30,7 @@ Anyone who has satisfied the conditions below to a ***reasonable extent***:
 #### Who or what make(s) up a resource person(s)?
     - A CodeTrybe Member
     - A non-CodeTrybe Member
-    - Any Student of ALX SE program
+    - Any Student of ALX SE program 
 
 ## Roles of Rescue Team Members
 ---
