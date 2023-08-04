@@ -1,4 +1,4 @@
-# CodeTrybe Cohort 14 Planning
+# CodeTrybe Cohort 14 and 15 Planning
 
 ## Brief Overview
 ---
@@ -47,6 +47,4 @@ Anyone who has satisfied the conditions below to a ***reasonable extent***:
 
 ---
 ---
-###### What are the current Challenges of Codetrybe C14?
-
-
+###### What are the current Challenges of Codetrybe C14/C15?
